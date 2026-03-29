@@ -1,0 +1,8 @@
+*.pth
+*.zip
+data/
+dataset/
+results/
+kaggle.json
+.vscode/
+pycache/
