@@ -12,6 +12,11 @@ TrustMed-AI is an end-to-end deep learning framework for **brain tumor classific
 
 **4 classes:** Glioma · Meningioma · Pituitary · No Tumor
 
+Interactive Clinical Demo
+<img width="1731" height="720" alt="z7656352700683_802a889bc03900487e18b63d8122313c" src="https://github.com/user-attachments/assets/5ddf2d7a-dee7-43ca-8109-97c4fb901424" />
+<img width="1480" height="965" alt="z7656353374126_0b419ac43fd7de8ec47b4c492d3008ec" src="https://github.com/user-attachments/assets/c3be9907-8bb2-4944-b1e0-8270d9e94ac7" />
+
+
 ---
 
 ## Key Features
